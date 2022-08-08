@@ -264,3 +264,16 @@ a:focus {
   margin-top: 0.2em;
   margin-bottom: 0.2em;
 }
+
+.cursor-auto {
+  cursor: auto !important;
+}
+
+.border-none {
+  border: none !important;
+}
+
+.link-hover:hover {
+  background: white !important;
+  color: blue;
+}
